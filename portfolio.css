@@ -1,0 +1,19 @@
+nav{
+    display: flex;
+    justify-content: flex-end;
+}
+nav ul{
+    list-style-type: none;
+}
+nav li{
+    display: inline-block;
+    margin-right: 24px;
+}
+.profession{
+    display: grid;
+    place-items: center;
+    margin: 16px;
+}
+main{
+    border: 2px solid black;
+}
